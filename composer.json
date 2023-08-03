@@ -1,5 +1,5 @@
 {
-  "name": "heureka/hcapi",
+  "name": "wpify/heureka-hcapi",
   "description": "Heureka shopping cart API",
   "license": "MIT",
   "require": {
