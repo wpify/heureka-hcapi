@@ -7,7 +7,7 @@ Hcapi is a tool created for easier connection between shopping adviser Heureka.c
 
 **Install by composer:**
 
-    composer require heureka/hcapi
+    composer require wpify/heureka-hcapi
 
 
 **Implementation**
